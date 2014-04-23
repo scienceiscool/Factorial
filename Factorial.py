@@ -1,4 +1,4 @@
-#!/Kathy/bin/python
+#!/my-computer's-name/bin/python
 
 #Kathy Saad
 
